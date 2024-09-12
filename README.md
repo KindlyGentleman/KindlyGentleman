@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kamal</h1>
-<h3 align="center">An aspiring data analyst/scientist from Indonesia</h3>
+<h3 align="center">An Aspiring Data Analyst/Scientist from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
